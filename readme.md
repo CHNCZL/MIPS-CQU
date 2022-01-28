@@ -1,5 +1,5 @@
 ## 使用说明
-1. 先获取硬综项目资源包，项目地址为https://gitee.com/cyyself/CO-lab-material-CQU/tree/2021（如果已经有了则跳过这一步）
+1. 先获取硬综项目资源包，项目地址为https://gitee.com/cyyself/CO-lab-material-CQU/tree/2021 （如果已经有了则跳过这一步）
 2. sram-soc的外部顶层文件已经在上面项目中提供，将myCPU文件夹拷贝至CO-lab-material-CQU/test/func_test_v0.01_n4ddr/soc_sram_func/rtl目录下
 3. 此时使用的工程文件在CO-lab-material-CQU\test\func_test_v0.01_n4ddr\soc_sram_func\run_vivado\project_1下，打开并在vivado中添加myCPU下的所有.v文件
 4. 直接运行仿真，观察波形图及控制台结果
